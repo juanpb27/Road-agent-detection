@@ -9,8 +9,10 @@ Este proyecto tiene como objetivo detectar, clasificar y seguir agentes viales e
 
 ## Instalación y Configuración:
 1. **Clonar el repositorio**:
+   ```
    git clone https://github.com/juanpb27/Road-agent-detection
    cd Road-agent-detection
+   ```
 
 2. **Crear y activar un entorno virtual** (opcional, pero recomendado):
 - En sistemas Unix (Linux/macOS):
