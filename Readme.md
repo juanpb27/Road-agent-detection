@@ -26,11 +26,15 @@ Este proyecto tiene como objetivo detectar, clasificar y seguir agentes viales e
   ```
 
 3. **Instalar las dependencias**:
+   ```
    pip install -r requirements.txt
+   ```
 
 Uso del Proyecto:
 
 1. Abrir el proyecto en Visual Studio Code:
+   ```
    code .
+   ```
 
 2. Una vez en Visual Studio Code, navegue al archivo 'Soporte.ipynb'. Este notebook contiene las instrucciones y celdas de código para experimentar con el modelo.
