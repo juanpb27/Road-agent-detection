@@ -7,7 +7,7 @@ Este proyecto se enfoca en detectar, clasificar y seguir agentes viales en víde
 1. **Clone el repositorio**:
     ```bash
     git clone https://github.com/juanpb27/Road-agent-detection
-    cd object_detection
+    cd Road-agent-detection
     ```
 
 2. **Cree un entorno virtual** (opcional pero recomendado):

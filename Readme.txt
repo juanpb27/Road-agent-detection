@@ -6,7 +6,7 @@ Instalación:
 
 1. Clone el repositorio:
     git clone https://github.com/juanpb27/Road-agent-detection
-    cd object_detection
+    cd Road-agent-detection
 
 2. Cree un entorno virtual (opcional pero recomendado):
     python -m venv venv
